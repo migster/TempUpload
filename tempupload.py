@@ -5,8 +5,6 @@ import requests
 import datetime
 import configparser
 
-# Simple comment
-
 os.system('modprobe w1-gpio')
 os.system('modprobe w1-therm')
 
